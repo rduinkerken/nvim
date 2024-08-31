@@ -4,4 +4,4 @@
 
 local opt = vim.opt
 
-opt.shiftwidth = 2 -- Size of an indent
+opt.shiftwidth = 4 -- Size of an indent
